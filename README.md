@@ -1,7 +1,7 @@
 # Ramiro Fernandez
 
 Software Engineering graduate with a passion for building software for web, mobile, and video games!
-### Open to software engineering, front-end, back-end and full-stack opportunities
+### Open to software engineering, front-end, back-end, and full-stack opportunities
 
 <a href="https://github.com/daybreak101">
   <img src="https://komarev.com/ghpvc/?username=daybreak101&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" alt="Profile views"/>
